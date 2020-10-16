@@ -22,7 +22,7 @@ function visualizeMatchesPlayedPerYear(matchesPlayedPerYear) {
       type: "column"
     },
     title: {
-      text: "Matches Played Per Year"
+      text: ""
     },
     subtitle: {
       text:
